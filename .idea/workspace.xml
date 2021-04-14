@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React/todo-app" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,10 +35,18 @@
       <workItem from="1618317051397" duration="1515000" />
       <workItem from="1618396648046" duration="939000" />
       <workItem from="1618399966476" duration="31000" />
+      <workItem from="1618402510410" duration="308000" />
+      <workItem from="1618402984262" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="798" y="278" key="FileChooserDialogImpl" timestamp="1618403193315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="798" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618403193315" />
   </component>
 </project>
